@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @stack('styles')
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <title>Mi Portafolio</title>
+    <title>Carlos Ivan Perez Benitez - Portafolio</title>
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')    
 </head>
