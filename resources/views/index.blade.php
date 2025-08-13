@@ -4,8 +4,8 @@
     <section class="bg-[#3B3B3B]">        
         <div class="grid items-center justify-center h-150 content-center text-center fondo">
             <div class="hidden md:flex flex-col absolute p-4 shadow-xl/20 bg-[#2D2D2D]">
-                <a class="transition delay-50 duration-300 ease-in-out hover:-translate-y-1 hover:scale-130" href="https://www.linkedin.com/in/carlos-ivan-perez-benitez-5a58a4236/"><i class="fa-brands fa-linkedin fa-2xl my-6"></i></a>
-                <a class="transition delay-50 duration-300 ease-in-out hover:-translate-y-1 hover:scale-130" href="https://github.com/CarlosIvan165"><i class="fa-brands fa-github fa-2xl my-6"></i></a> 
+                <a target="_blank" class="transition delay-50 duration-300 ease-in-out hover:-translate-y-1 hover:scale-130" href="https://www.linkedin.com/in/carlos-ivan-perez-benitez-5a58a4236/"><i class="fa-brands fa-linkedin fa-2xl my-6"></i></a>
+                <a target="_blank" class="transition delay-50 duration-300 ease-in-out hover:-translate-y-1 hover:scale-130" href="https://github.com/CarlosIvan165"><i class="fa-brands fa-github fa-2xl my-6"></i></a> 
                 <a href="https://wa.me/525525211102"
                     class="transition delay-50 duration-300 ease-in-out hover:-translate-y-1 hover:scale-130"
                     target="_blank"
