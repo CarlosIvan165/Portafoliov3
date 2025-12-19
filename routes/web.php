@@ -34,4 +34,8 @@ Route::get('/ilo', function () {
     return view('projects.ilo');
 })->name('ilo');
 
+Route::get('/EchoBlog', function () {
+    return view('projects.echoblog');
+})->name('echoblog');
+
 
