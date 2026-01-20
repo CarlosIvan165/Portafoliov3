@@ -21,7 +21,6 @@
                     <img class="w-full flex-shrink-0 rounded-lg" src="{{ asset('img/echoblog/echoblog2.png') }}" alt="">
                     <img class="w-full flex-shrink-0 rounded-lg" src="{{ asset('img/echoblog/echoblog3.png') }}" alt="">
                     <img class="w-full flex-shrink-0 rounded-lg" src="{{ asset('img/echoblog/echoblog4.png') }}" alt="">
-                    <img class="w-full flex-shrink-0 rounded-lg" src="{{ asset('img/echoblog/echoblog5.png') }}" alt="">
                 </div>
 
                 <!-- Controls -->
